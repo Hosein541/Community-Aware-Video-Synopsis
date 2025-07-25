@@ -32,8 +32,8 @@ You can download the full SynoClip dataset from the original source linked below
 To run this project, first clone the repository and install the required dependencies.
 
 ```bash
-git clone [Your Repository URL]
-cd [Your Repository Name]
+git clone https://github.com/Hosein541/Community-Aware-Video-Synopsis.git
+cd Community-Aware-Video-Synopsis
 pip install -r requirements.txt
 ```
 
