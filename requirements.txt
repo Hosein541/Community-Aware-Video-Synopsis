@@ -1,0 +1,22 @@
+# Core AI and Machine Learning Libraries
+torch
+torchvision
+torch-geometric
+ultralytics
+
+# Data Handling and Numerics
+pandas
+numpy
+scipy
+
+# Graph and Community Detection
+networkx
+python-louvain
+
+# Image and Video Processing
+opencv-python
+Pillow
+
+# Visualization and Utilities
+matplotlib
+tqdm
